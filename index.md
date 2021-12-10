@@ -1,40 +1,41 @@
 ## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>  
+	<head>
+		<title>Webpage of Timothée Bénard </title>
+		<!-- link to main stylesheet -->
+		<link rel="stylesheet" type="text/css" href="/css/main.css">
+	</head>
+  
+	<body>
+		<nav>
+    		<ul>
+        		<li><a href="/">Home</a></li>
+	        	<li><a href="/research">Research & publications</a></li>
+			<li><a href="/teaching_outreach">Teaching & outreach</a></li>
+        		<li><a href="/cv.pdf">CV</a></li>
+    		</ul>
+		</nav>
+		
+		<div class="container">
+		<div class="blurb">
+			<h1>Webpage of Laura Monk</h1>
+			<p><img src="http://lauramonk.github.io/photo2.jpg" width="300" alt="A picture of me" align="right"/></p>
+			<p>I am a postdoctoral fellow at the <a href="https://www.mpim-bonn.mpg.de/">University of Cambridge </a> in the UK mentored by <a href="https://www.math.uni-bonn.de/people/ursula/">Péter Varju and Emmanuel Breuillard</a>. 
+			<br>Before that, I did my PhD under the supervision of <a href="https://irma.math.unistra.fr/~anantharaman/">Yves Benoist</a> at the Université Paris-Saclay and Ecole Normale Supérieure in France.</p>
+	
+			<p><b>E-mail:</b> <a href="mailto:timothee.benard@gmail.com">monk@mpim-bonn.mpg.de</a></p>
+			<p><b>Address:</b> <br> 
+				Office B25 <br>
+				Max Planck Insitut für Mathematik <br>
+				Vivatsgasse 7, 53111 Bonn, Germany. <br><br></p> 
+		</div><!-- /.blurb -->
+		</div><!-- /.container -->
+	</body>
+	
+	<footer>
+		<p align="right">Last update: 09/10/21.</p>
+	</footer>
+</html>
 
-I am postdoc at the university of Cambridge.
 
-
-You can use the [editor on GitHub](https://github.com/timotheebenard/tbenard/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/timotheebenard/tbenard/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
