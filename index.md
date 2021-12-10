@@ -20,7 +20,7 @@
 		<div class="container">
 		<div class="blurb">
 			<h1>Webpage of Timothée Bénard</h1>
-			<p><img src="http://lauramonk.github.io/photo2.jpg" width="300" alt="A picture of me" align="right"/></p>
+			<p><img src="http://lauramonk.github.io/photo2.jpg" width="300" alt="PCR-test receipt" align="right"/></p>
 			<p>I am a postdoctoral fellow at the <a href="https://www.mpim-bonn.mpg.de/">University of Cambridge </a> in the UK mentored by <a href="https://www.math.uni-bonn.de/people/ursula/">Péter Varju and Emmanuel Breuillard</a>. 
 			<br>Before that, I did my PhD under the supervision of <a href="https://irma.math.unistra.fr/~anantharaman/">Yves Benoist</a> at the Université Paris-Saclay and Ecole Normale Supérieure in France.</p>
 	
